@@ -1,0 +1,14 @@
+/home/mila/Documents/repos/kbdmapper/obj/Debug/net9.0/kbdmapper.GeneratedMSBuildEditorConfig.editorconfig
+/home/mila/Documents/repos/kbdmapper/obj/Debug/net9.0/kbdmapper.AssemblyInfoInputs.cache
+/home/mila/Documents/repos/kbdmapper/obj/Debug/net9.0/kbdmapper.AssemblyInfo.cs
+/home/mila/Documents/repos/kbdmapper/obj/Debug/net9.0/kbdmapper.csproj.CoreCompileInputs.cache
+/home/mila/Documents/repos/kbdmapper/bin/Debug/net9.0/kbdmapper
+/home/mila/Documents/repos/kbdmapper/bin/Debug/net9.0/kbdmapper.deps.json
+/home/mila/Documents/repos/kbdmapper/bin/Debug/net9.0/kbdmapper.runtimeconfig.json
+/home/mila/Documents/repos/kbdmapper/bin/Debug/net9.0/kbdmapper.dll
+/home/mila/Documents/repos/kbdmapper/bin/Debug/net9.0/kbdmapper.pdb
+/home/mila/Documents/repos/kbdmapper/obj/Debug/net9.0/kbdmapper.dll
+/home/mila/Documents/repos/kbdmapper/obj/Debug/net9.0/refint/kbdmapper.dll
+/home/mila/Documents/repos/kbdmapper/obj/Debug/net9.0/kbdmapper.pdb
+/home/mila/Documents/repos/kbdmapper/obj/Debug/net9.0/kbdmapper.genruntimeconfig.cache
+/home/mila/Documents/repos/kbdmapper/obj/Debug/net9.0/ref/kbdmapper.dll

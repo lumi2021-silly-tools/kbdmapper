@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kbdmapper", "kbdmapper.csproj", "{6262F3BE-C66A-2B46-645F-27C0B8F5029A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6262F3BE-C66A-2B46-645F-27C0B8F5029A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6262F3BE-C66A-2B46-645F-27C0B8F5029A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6262F3BE-C66A-2B46-645F-27C0B8F5029A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6262F3BE-C66A-2B46-645F-27C0B8F5029A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C15FC6C8-AB37-4C09-913F-5B9B9D764F33}
+	EndGlobalSection
+EndGlobal
