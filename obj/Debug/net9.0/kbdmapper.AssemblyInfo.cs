@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("kbdmapper")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+007a906df8c0bf68f2d7ace64a8c2f1c43bd0670")]
 [assembly: System.Reflection.AssemblyProductAttribute("kbdmapper")]
 [assembly: System.Reflection.AssemblyTitleAttribute("kbdmapper")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
